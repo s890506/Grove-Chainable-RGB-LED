@@ -24,3 +24,4 @@ int main() {
 
 ## 參考資料
 *https://developer.mbed.org/components/Grove-Chainable-RGB-LED/
+*https://developer.mbed.org/teams/Seeed/wiki/Grove-Chainable-RGB-LED
