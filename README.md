@@ -68,6 +68,6 @@ int main() {
 
 
 ## 參考資料
-*https://developer.mbed.org/components/Grove-Chainable-RGB-LED/
-*https://developer.mbed.org/teams/Seeed/wiki/Grove-Chainable-RGB-LED
-*https://github.com/pjpmarques/ChainableLED/wiki
+* https://developer.mbed.org/components/Grove-Chainable-RGB-LED/
+* https://developer.mbed.org/teams/Seeed/wiki/Grove-Chainable-RGB-LED
+* https://github.com/pjpmarques/ChainableLED/wiki
